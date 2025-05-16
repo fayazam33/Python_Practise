@@ -37,5 +37,6 @@ Here are some examples of what you'll find in this repo:
 
 ## 🛠 Tools Used
 
-- Python 3.x
+- Python 3.12.3
+- VsCode
 - Git & GitHub for version control
